@@ -1,0 +1,3 @@
+# master
+
+Simple Maven Project
